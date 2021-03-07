@@ -54,7 +54,7 @@ namespace FutureFarmTechTest
                 //minus by one week as order will need to be placed a week before
                 dt = myCal.AddWeeks(dt, -1);
                 farmField[i].NextOrderDate = dt;
-                System.Diagnostics.Debug.WriteLine(dt);
+                
             }
         }
 
@@ -68,7 +68,6 @@ namespace FutureFarmTechTest
                 for (int i = 0; i < farmField.Count; i++) { 
                     int litre = 0;
                     string chemical = Enum.GetName(typeof(Chemicals), pricePerLitre);
-                    System.Diagnostics.Debug.WriteLine(pricePerLitre + " " + chemical);
                 
                     //looping through each chemical and calculate cost
                     if(chemical == "Ryezapon" && farmField[i].Crop == "Winter Wheat")
