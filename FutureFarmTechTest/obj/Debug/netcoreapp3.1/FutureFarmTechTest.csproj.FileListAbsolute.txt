@@ -1,0 +1,13 @@
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\bin\Debug\netcoreapp3.1\FutureFarmTechTest.exe
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\bin\Debug\netcoreapp3.1\FutureFarmTechTest.deps.json
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\bin\Debug\netcoreapp3.1\FutureFarmTechTest.runtimeconfig.json
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\bin\Debug\netcoreapp3.1\FutureFarmTechTest.runtimeconfig.dev.json
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\bin\Debug\netcoreapp3.1\FutureFarmTechTest.dll
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\bin\Debug\netcoreapp3.1\FutureFarmTechTest.pdb
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\obj\Debug\netcoreapp3.1\FutureFarmTechTest.csprojAssemblyReference.cache
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\obj\Debug\netcoreapp3.1\FutureFarmTechTest.AssemblyInfoInputs.cache
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\obj\Debug\netcoreapp3.1\FutureFarmTechTest.AssemblyInfo.cs
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\obj\Debug\netcoreapp3.1\FutureFarmTechTest.csproj.CoreCompileInputs.cache
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\obj\Debug\netcoreapp3.1\FutureFarmTechTest.dll
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\obj\Debug\netcoreapp3.1\FutureFarmTechTest.pdb
+C:\Users\Easan\Documents\Visual Studio 2019\workspace\FutureFarmTechTest\obj\Debug\netcoreapp3.1\FutureFarmTechTest.genruntimeconfig.cache
